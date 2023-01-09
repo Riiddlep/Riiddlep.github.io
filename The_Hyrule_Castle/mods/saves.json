@@ -1,0 +1,82 @@
+{
+  "Sauvegarde": [
+    {
+      "name": "",
+      "race": "",
+      "classes": "",
+      "hp": 0,
+      "heal": 0,
+      "str": 0,
+      "alignment": "",
+      "basemp": 0,
+      "mp": 0,
+      "int": 0,
+      "def": 0,
+      "res": 0,
+      "spd": 0,
+      "luck": 0,
+      "baselife": 10,
+      "rarity": 0,
+      "exp": 0,
+      "niv": 0,
+      "coins": 12,
+      "level": 1,
+      "levels": 0,
+      "difficulty": 0
+    },
+    {
+      "perso": {
+        "id": 3,
+        "name": "Sheik",
+        "baselife": 50,
+        "heal": 25,
+        "hp": 26,
+        "basemp": 30,
+        "mp": 30,
+        "str": 12,
+        "int": 7,
+        "def": 5,
+        "res": 4,
+        "spd": 12,
+        "luck": 10,
+        "race": "Sheikah",
+        "classes": "Assassin",
+        "rarity": 3,
+        "alignment": "evil"
+      },
+      "exp": 47,
+      "niv": 0,
+      "coins": 12,
+      "level": 2,
+      "levels": 10,
+      "difficulty": 1
+    },
+    {
+      "perso": {
+        "id": 1,
+        "name": "Link",
+        "baselife": 60,
+        "heal": 30,
+        "hp": 60,
+        "basemp": 30,
+        "mp": 30,
+        "str": 15,
+        "int": 7,
+        "def": 8,
+        "res": 8,
+        "spd": 11,
+        "luck": 10,
+        "race": "Hylian",
+        "classes": "Hero",
+        "rarity": 1,
+        "alignment": "good"
+      },
+      "exp": 81,
+      "niv": 0,
+      "coins": 12,
+      "level": 2,
+      "levels": 10,
+      "difficulty": 1
+    }
+  ]
+}
